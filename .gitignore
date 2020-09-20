@@ -6,6 +6,9 @@
 # Ignore the authorization data file auth_data.py
 auth_data.py
 
+# My data file
+*.csv
+
 # User-specific files
 *.rsuser
 *.suo
